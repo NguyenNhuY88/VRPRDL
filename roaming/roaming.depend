@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1525892550 source:c:\users\y\desktop\roaming\function.cpp
+	"function.h"
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<sstream>
+
+1525892893 c:\users\y\desktop\roaming\function.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<sstream>
+
+1525888485 source:c:\users\y\desktop\roaming\main.cpp
+	<iostream>
+	"function.h"
+
